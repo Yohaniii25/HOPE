@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Artists</string>
+    <string-array name="fundCategories">
+        <item>Please select a category</item>
+        <item>Health</item>
+        <item>Education</item>
+        <item>Accommodation</item>
+        <item>Other</item>
+    </string-array>
+</resources>
